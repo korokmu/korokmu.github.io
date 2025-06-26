@@ -1,10 +1,12 @@
 ---
-title: Welcome to My Site
+title: Home
 ---
 
-# Hello!
+# Welcome to My Site
 
-This is my personal website built with GitHub Pages and the Minima theme.
+Hello! I’m **korokmu**.
 
-- See my [projects](projects.md)
-- See my [achievements](achievements.md)
+- [Projects](projects.md)
+- [Achievements](achievements.md)
+
+Explore my work and accomplishments!
